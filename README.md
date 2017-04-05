@@ -1,2 +1,4 @@
 # Ultimatum
-Ultimatum Game
+
+This is the Ultimatum Game
+
